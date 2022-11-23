@@ -3,8 +3,8 @@ https://www.englishradar.com/study-english/english-level-a1/
 
 # English communication
 
-- [ ] Exchanging greetings
-- [x] Giving personal information
+- [x] Exchanging greetings
+- [ ] Giving personal information
 - [ ] Using numbers, days, months, years
 - [ ] Asking for and telling the time
 - [ ] Describing people
